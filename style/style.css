@@ -1,0 +1,15 @@
+body{
+    background-color: black;
+}
+.bg-pink{
+    background-color: #FF00CC;
+}
+.navbar-dark .navbar-nav .nav-link.disabled{
+    color: black;
+}
+.home{
+    margin-top: 80px;
+}
+.black-bg{
+    background-color: black;
+}
